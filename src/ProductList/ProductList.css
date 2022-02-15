@@ -1,0 +1,21 @@
+* {
+  margin: 2px;
+  padding: 2px;
+}
+.prod {
+  display: flex;
+  justify-content: space-around;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.tit {
+  color: blue;
+}
+
+#improd {
+  width: 120px;
+  height: 120px;
+}
